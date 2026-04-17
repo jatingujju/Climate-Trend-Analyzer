@@ -60,6 +60,14 @@ To understand climate change patterns using data-driven insights.
 * Dashboard integration
 * Real-time data
 
+The dataset used in this project is publicly available:
+
+🔗 https://www.kaggle.com/datasets/berkeleyearth/climate-change-earth-surface-temperature-data
+
+Download the file:
+GlobalLandTemperaturesByCity.csv
+
+
 ## 👤 Author
 
 Jatin Gujarathi
